@@ -72,3 +72,5 @@ Run the dashboard application:
 
 PowerShell
 streamlit run app.py
+
+github link : https://github.com/rutikanerkar15-sudo/student_recommendation_system
